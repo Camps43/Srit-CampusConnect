@@ -1,7 +1,7 @@
-Project README (Human-Readable Format)
-🚀 Project Name
-A brief description of your project.
-(Example: A web app built with Node.js and React to manage campus events and announcements.)
+
+🚀 Project Name:Srit Campusconnect
+
+
 📁 Project Structure
 project-name/
 ├── client/             # Frontend code (if any)
@@ -9,7 +9,9 @@ project-name/
 ├── package.json        # Project metadata and dependencies
 ├── .gitignore
 └── README.md
+
 🔧 Setup Instructions
+
 Follow these steps to run the project locally:
 1️⃣ Clone the Repository
 git clone https: https://github.com/Camps43/Srit-CampusConnect
